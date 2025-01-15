@@ -1,6 +1,8 @@
 # Tesla Clone (Educational Purpose Only)
 This is a non-commercial clone of the Tesla homepage, built purely with HTML and CSS for learning purposes. All rights to the original design and content belong to Tesla, Inc.
 
+Only large devices
+
 <img width="1747" alt="1" src="https://github.com/user-attachments/assets/7a5f5ed1-4b2a-46f0-9d82-3ccda6281d4d" />
 <img width="1745" alt="2" src="https://github.com/user-attachments/assets/51063c07-dfcf-471e-a17a-dc4d3c582b0e" />
 <img width="1747" alt="3" src="https://github.com/user-attachments/assets/2bb77a6a-d0e8-4a9b-b4fe-24117d7a15d4" />
